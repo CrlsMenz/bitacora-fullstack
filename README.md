@@ -32,9 +32,11 @@ del curso y mostrar mi evolución como desarrollador web.
 
 ```
 bitacora-fullstack/
+├── Main/
+    ├── main.html
 ├── README.md
-├── dia-01/
-├── dia-02/
+├── Sesion_1.txt
+├── esquema-cliente-servidor.png
 └── ...
 ```
 
